@@ -1,4 +1,6 @@
-# Caprico - AI Chat Assistant
+# [Caprico - AI Chat Assistant](caprico.vercel.app)
+
+**visit site at -** [caprico.vercel.app](https://caprico.vercel.app)
 
 A modern, feature-rich chat interface powered by Google's Gemini 2.0 Flash model. Built with Next.js, TypeScript, and Tailwind CSS.
 
