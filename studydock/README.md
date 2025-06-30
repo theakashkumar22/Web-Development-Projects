@@ -1,4 +1,6 @@
-# StudyDock
+# [StudyDock](https://studydock.xellence.xyz)
+
+**Visit site at** [studydock.xellence.xyz](https://studydock.xellence.xyz)
 
 **StudyDock** is an offline-first study companion that helps you organize notes, create flashcards, generate quizzes, and track your study progress—all stored locally for privacy and offline access.
 
