@@ -1,0 +1,16 @@
+{
+  "name": "StudyDock",
+  "short_name": "StudyDock",
+  "description": "Offline-First Study Companion",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/stencil/64/book.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    }
+  ]
+}
